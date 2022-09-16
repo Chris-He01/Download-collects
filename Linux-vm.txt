@@ -1,0 +1,2 @@
+How to Install Ubuntu 22.04 LTS on VirtualBox in Windows 11: https://www.youtube.com/watch?v=v1JVqd8M3Yc
+how to create shared files in vm: https://www.youtube.com/watch?v=9-teQnZ8LEY
